@@ -1,0 +1,8 @@
+D:\WebApps\LoginORMBEU\src\main\java\spring\mail\orm\dao\UserDao.java
+D:\WebApps\LoginORMBEU\src\main\java\spring\mail\orm\services\UserServices.java
+D:\WebApps\LoginORMBEU\src\main\java\spring\mail\orm\send\controller\MailController.java
+D:\WebApps\LoginORMBEU\src\main\java\spring\mail\orm\model\OTPVerify.java
+D:\WebApps\LoginORMBEU\src\main\java\spring\mail\orm\send\Login.java
+D:\WebApps\LoginORMBEU\src\main\java\spring\mail\orm\send\MailSend.java
+D:\WebApps\LoginORMBEU\src\main\java\spring\mail\orm\dao\UserDaoImpl.java
+D:\WebApps\LoginORMBEU\src\main\java\spring\mail\orm\model\UserPass.java
